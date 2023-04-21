@@ -1,9 +1,12 @@
 
-# Secure User Management System ANGULAR-SPRING-AWS
+# Secure User Management System ANGULAR-SPRING-AWS ( work in progress.. )
+
+* *BACK-END*: [CHECK OUT THE PROGRESS HERE](https://github.com/davidandw190/Secure-User-Management-Portal-BACKEND)
+* *FRONT-END*:
 
 ## Project Overview:
 
-This is a personal project of mine that I am very excited for and that I am currently working on and that aims to to simulate real-life usage scenarios while being both robust and secure. 
+This is a personal project of mine that I am very excited for and on which I am currently working on and that aims to to simulate real-life usage scenarios while being both robust and secure. 
 
 The reason why I am building it is to gain a proper fundamental knowledge of frameworks like Spring and Angular, to further familiarise myself with languages like Typescript, and to explore diverse projects and libraries from these areas in order to deepen my effectiveness in the area of fullstack development. And, of course, for the challange too! ^-^
 
@@ -15,7 +18,7 @@ Password encryption and decryption using BCryptPasswordEncoder.
 
 ### Role-based Access Control:
 - Implementation of role-based access control with different user roles (Super Admin, Admin, HR, User).
-- Restricted access to certain functionalities based on user roles.
+- Restricted access to certain functionalities based on user authorites provided by roles.
 
 ### Data Persistence:
 - Use of Spring Data JPA with MySQL for data persistence to handle scalability and smooth integration with other systems.
