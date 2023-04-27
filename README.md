@@ -6,15 +6,15 @@
 
 ## Project Overview:
 
-This is a personal project of mine that I am very excited for and on which I am currently working on and that aims to to simulate real-life usage scenarios while being both robust and secure. 
+This is a personal project that I am very excited for and that aims to to simulate real-life usage scenarios while being both robust and secure. 
 
-The reason why I am building it is to gain a proper fundamental knowledge of frameworks like Spring and Angular, to further familiarise myself with languages like Typescript, and to explore diverse projects and libraries from these areas in order to deepen my effectiveness in the area of fullstack development. And, of course, for the challange too! ^-^
+The reason for building it is to gain a proper fundamental knowledge of frameworks like Spring and Angular, to further familiarise myself with languages like Typescript, and to explore diverse projects and libraries from these areas in order to deepen my effectiveness in the area of fullstack development. And, of course, for the challange too! ^-^
 
 ## Project Features:
 
 ### User Authentication and Authorization:
 - User validation, authentication, and authorization via JSON Web Tokens (JWT) using Spring Security.
-Password encryption and decryption using BCryptPasswordEncoder.
+- Password encryption and decryption using BCryptPasswordEncoder.
 
 ### Role-based Access Control:
 - Implementation of role-based access control with different user roles (Super Admin, Admin, HR, User).
