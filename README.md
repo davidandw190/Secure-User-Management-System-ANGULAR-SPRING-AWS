@@ -2,7 +2,8 @@
 # Secure User Management System ANGULAR-SPRING-AWS ( work in progress.. )
 
 * *BACK-END*: [CHECK OUT THE PROGRESS HERE](https://github.com/davidandw190/Secure-User-Management-Portal-BACKEND)
-* *FRONT-END*: SOON!
+* *FRONT-END*: [CHECK OUT THE PROGRESS HERE](https://github.com/davidandw190/Secure-User-Management-Portal-FRONTEND.git)
+* *Deployed App*: SOON..
 
 ## Project Overview:
 
